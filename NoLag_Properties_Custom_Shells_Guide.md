@@ -30,7 +30,7 @@ Make sure you have:
    nolag_properties/custom/shells/
    ```
 
-2. Create a new Lua file (e.g., `myshells.lua`)
+2. Create a new Lua file (e.g., `subhampro.lua`)
 
 3. Use this template for your file:
 
@@ -102,7 +102,7 @@ local shells = {
 
 ## Step 6: Testing Your Custom Shells
 
-1. Save your `myshells.lua` file
+1. Save your `subhampro.lua` file
 2. Restart the NoLag Properties resource:
    ```
    /restart nolag_properties
